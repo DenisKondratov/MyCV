@@ -123,8 +123,10 @@ a {
     .description {
         text-align: justify;
     }
-    .description ul {
-        margin: 0 auto;
+    .phone-ul {
+        justify-content: space-evenly;
+    }
+    .description ul{
         padding: 0;
     }
 }
